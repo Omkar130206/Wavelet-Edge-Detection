@@ -56,9 +56,9 @@ This project uses the **Haar wavelet** for the 2D Discrete Wavelet Transform.
 
 ## Authors
 This project was developed as a group mini project for the DTSP subject.
- Omkar Panchal 
- Ayush Pathade
- Yash Gosavi
- Kartik Kapse
+ 1. Omkar Panchal 
+ 2. Ayush Pathade
+ 3. Yash Gosavi
+ 4. Kartik Kapse
 College Group Mini Project – DTSP
 
