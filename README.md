@@ -2,7 +2,7 @@
 
 ## Mini Project – DTSP
 
-This project implements edge detection using the **Discrete Wavelet Transform (DWT)**. The project was developed as a college group mini project for the **Digital Signal and Image Processing / DTSP** subject using Python and Google Colab.
+This project implements edge detection using the **Discrete Wavelet Transform (DWT)**. The project was developed as a college group mini project for the ** DTSP** subject using Python and Google Colab.
 
 ## Project Objective
 
