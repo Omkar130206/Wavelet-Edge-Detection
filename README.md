@@ -60,5 +60,4 @@ This project was developed as a group mini project for the DTSP subject.
  2. Ayush Pathade
  3. Yash Gosavi
  4. Kartik Kapse
-College Group Mini Project – DTSP
 
